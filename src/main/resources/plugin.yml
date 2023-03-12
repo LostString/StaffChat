@@ -1,0 +1,9 @@
+name: StaffChat
+version: '${project.version}'
+main: me.lost.main.Main
+authors: [ LostString, Mangy ]
+description: StaffChat Basico
+commands:
+  sc:
+    aliases: [staffchat, schat]
+    description: Activa o Desactiva el staffchat
